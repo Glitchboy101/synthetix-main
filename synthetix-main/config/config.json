@@ -1,0 +1,16 @@
+{
+  "CONTRACT_ADDRESS": "0x4c1A8f7A8b34834433B6F9B6641D1591e4C12374",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x4c1a8f7a8b34834433b6f9b6641d1591e4c12374",
+  "NETWORK": {
+    "NAME": "Georli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Not Your Regular NFTs",
+  "SYMBOL": "NYRN",
+  "CONTENT": "Here our dear paperhanders can summon NYRN",
+  "GAS_LIMIT": 210000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "LINKTREE": "https://linktr.ee/nyrn"
+}

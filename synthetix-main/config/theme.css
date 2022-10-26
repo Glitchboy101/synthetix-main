@@ -1,0 +1,14 @@
+:root {
+  --primary: rgba(212, 212, 212, 0);
+  --primary-text: #E84363;
+  --secondary: #E84363;
+  --secondary-text: #000000;
+  --accent: #99000000;
+  --accent-text: #E84363;
+  --button-color: #E84363;
+  --button-text: #EFDBD5;
+  --background: rgba(239, 219, 213, 0.92);
+  --scanlink: #E84363;
+  --active-text: #EFDBD5;
+  --down-color: #EFDBD5;
+}
